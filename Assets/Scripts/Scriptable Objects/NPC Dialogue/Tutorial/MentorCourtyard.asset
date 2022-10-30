@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f30696cf9ce22e45a25f441f60ee858, type: 3}
+  m_Name: MentorCourtyard
+  m_EditorClassIdentifier: 
+  Lines:
+  - Title: Mentor
+    ScriptLine: TO BLAZES WITH IT!
+    Portrait: 1
+  - Title: Mentor
+    ScriptLine: We were THIS close and you went and bumble the whole thing up!
+    Portrait: 1
+  - Title: Mentor
+    ScriptLine: And now I gotta go explain to the... *Grumble grumble*
+    Portrait: 1
+  - Title: Mentor
+    ScriptLine: Gah! I can't stand this! I'll tell you now, you ain't ever getting
+      into the guild you half-witted foozler, I'll see to that.
+    Portrait: 1
+  - Title: Mentor
+    ScriptLine: So now while I gotta go clean up this mess you made, you can go find
+      some gutter to crawl into and rot! GAH!
+    Portrait: 1

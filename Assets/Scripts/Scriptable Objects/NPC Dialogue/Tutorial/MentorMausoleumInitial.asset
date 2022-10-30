@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f30696cf9ce22e45a25f441f60ee858, type: 3}
+  m_Name: MentorMausoleumInitial
+  m_EditorClassIdentifier: 
+  Lines:
+  - Title: Mentor
+    ScriptLine: Alrighty, it's time to see what you're made of.
+    Portrait: 1
+  - Title: Mentor
+    ScriptLine: This here mausoleum is the final resting place of the very queen's
+      dear old departed cat, Ed Sheeran IV.
+    Portrait: 1
+  - Title: Mentor
+    ScriptLine: Now, as I'm sure has gotten through that thick skull of yours, you
+      gotta break in and get us that corpse.
+    Portrait: 1
+  - Title: Mentor
+    ScriptLine: Of course, it's probably got some pretty nasty protections on it,
+      but I'm sure you wouldn't let something so simple trip you up right at the
+      very end, would ya?
+    Portrait: 1
+  - Title: Mentor
+    ScriptLine: Now get cracking! That thing's gonna fetch me a pretty pence for
+      sure!
+    Portrait: 1

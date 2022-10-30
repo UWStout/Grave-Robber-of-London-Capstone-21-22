@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f30696cf9ce22e45a25f441f60ee858, type: 3}
+  m_Name: DelivererSecond
+  m_EditorClassIdentifier: 
+  Lines:
+  - Title: The Deliverer
+    ScriptLine: That medallion's special, ravens are said to provide protection to
+      those they've granted their boon, and as such that medallion will alert you
+      of imminent danger.
+    Portrait: 8
+  - Title: The Deliverer
+    ScriptLine: While you're out doing your work, it will glow with an ethereal light
+      once others have detected your presence.
+    Portrait: 8
+  - Title: The Deliverer
+    ScriptLine: It will even point out any folks getting a bit too close for comfort.
+      Keep an eye on those edges and you'll never get snuck up on again.
+    Portrait: 8
+  - Title: The Deliverer
+    ScriptLine: Use it as a warning, if things get too heated, it may be best to
+      simply get out, even if your work isn't finished.
+    Portrait: 8
+  - Title: The Deliverer
+    ScriptLine: Now that should be enough to get you started, but doen't rest on
+      your laurels, you've got plenty to improve on.
+    Portrait: 8
+  - Title: The Deliverer
+    ScriptLine: There's plenty of difficulties waiting for you out there, so you
+      should consider using your earnings to pick up some new equipment to make life
+      easier.
+    Portrait: 8
+  - Title: The Deliverer
+    ScriptLine: Thankfully, we've got everything you need right here. Talk to my
+      associates, and they'll help set you up with whatever you need.
+    Portrait: 8
+  - Title: The Deliverer
+    ScriptLine: With that, I think I'll leave you to your work. I'm expecting big
+      things of you, though I'm confident you'll live up to them.
+    Portrait: 8

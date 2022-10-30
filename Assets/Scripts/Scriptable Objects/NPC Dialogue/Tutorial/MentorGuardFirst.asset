@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f30696cf9ce22e45a25f441f60ee858, type: 3}
+  m_Name: MentorGuardFirst
+  m_EditorClassIdentifier: 
+  Lines:
+  - Title: Mentor
+    ScriptLine: Hold your horses kid, looks like a mutton shunter up ahead. Seems
+      like we're gonna have te be sneaky about this.
+    Portrait: 1
+  - Title: Mentor
+    ScriptLine: Just remember, keep the noise down. Oftentimes them guard's ears
+      are better than their eyes, but don't think that means they won't see you standing
+      in front of their bloody nose.
+    Portrait: 1
+  - Title: Mentor
+    ScriptLine: If they do catch you, you'd normally be able to leg it and hide,
+      but this here's a test for you, if that guy so much as catches sight of your
+      chin fuzz, you're out.
+    Portrait: 1
+  - Title: Mentor
+    ScriptLine: They always stick to the trail, use that to your advantage when dealing
+      with them, got it?
+    Portrait: 1
+  - Title: Mentor
+    ScriptLine: I'll go ahead, try not to let me die of boredom this time.
+    Portrait: 1

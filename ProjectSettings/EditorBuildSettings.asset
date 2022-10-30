@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main/Title/GameManager.unity
+    guid: 85445113daad04b408649452f6d17e38
+  - enabled: 1
+    path: Assets/Scenes/Main/Title/Title.unity
+    guid: 4b9536cf5defa5c4cba80623daef49b6
+  - enabled: 1
+    path: Assets/Scenes/Main/Title/UIWalkthrough.unity
+    guid: caadfc581ebed0542b9c70551e2619b0
+  - enabled: 1
+    path: Assets/Scenes/Main/CourtYard.unity
+    guid: d153746e16aa6d3478de52c5ffec62ed
+  - enabled: 1
+    path: Assets/Scenes/Main/GraveYard.unity
+    guid: 80e89f5c2f6c7394488c54f124d0f669
+  - enabled: 1
+    path: Assets/Scenes/Tutorial/OpeningCutscene.unity
+    guid: eac50d960ff7ace46b344d3865485284
+  - enabled: 1
+    path: Assets/Scenes/Tutorial/Tutorial.unity
+    guid: 59e7613b911eea64093170544142a927
+  - enabled: 1
+    path: Assets/Scenes/Tutorial/CourtyardTutorial.unity
+    guid: 25743cda72fec1043ba486b70c1b8540
+  - enabled: 1
+    path: Assets/Scenes/Main/LoadingScene.unity
+    guid: 6e652865904cdec4cacbe9b03012fb70
+  - enabled: 1
+    path: Assets/Scenes/Main/LoadingSceneCourtyard.unity
+    guid: e4721918c3aceb5419d4c853d6bf6d88
+  m_configObjects: {}

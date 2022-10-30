@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f30696cf9ce22e45a25f441f60ee858, type: 3}
+  m_Name: MentorInitialFirst
+  m_EditorClassIdentifier: 
+  Lines:
+  - Title: Mentor
+    ScriptLine: Yrshh... we've finally arrived, and seemingly unnoticed, despite
+      all your clomping.
+    Portrait: 1
+  - Title: Mentor
+    ScriptLine: Well, it's time to take a crack at it. You got your daddles warmed
+      up and shovel shined?
+    Portrait: 1
+  - Title: Mentor
+    ScriptLine: Good, at least you got that much right. It's about time you put them
+      to use.
+    Portrait: 1
+  - Title: Mentor
+    ScriptLine: You see the four graves here? Dig them all up and nab their bodies
+      for me. To start digging, walk up to one of their mounds and press E.
+    Portrait: 1
+  - Title: Mentor
+    ScriptLine: Remember, digging's all about the timing. Press the space bar in
+      time with the green area and you'll get it done in no time.
+    Portrait: 1
+  - Title: Mentor
+    ScriptLine: Now get on it! If something this simple even seems remotely hard
+      for you, it'll be obvious you ain't fit for our guild.
+    Portrait: 1

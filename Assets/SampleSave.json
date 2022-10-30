@@ -1,0 +1,37 @@
+{
+  "Money": 56,
+  "MoneyCap": 100,
+  "BodyCollection": [
+    {
+      "Decay": 26,
+      "QualityEnum": 1
+    }
+  ],
+  "TreasureCollection": [
+    {
+      "Name": "Queen's Golden Ring",
+      "Price": 25,
+      "Description": "The Queen's Golden Ring has been passed down for generations. It is thought to originally be a gift to the royal family by the King Alexander."
+    }
+  ],
+  "Quests": [
+    {
+      "Tag": 0,
+      "QuestIsActive": false,
+      "Title": "Freshest Bodies",
+      "Description": "Bring me the freshest bodies you find. I would like 5.",
+      "Reward": 20,
+      "CurrentAmount": 0,
+      "RequiredAmount": 0
+    },
+    {
+      "Tag": 2,
+      "QuestIsActive": false,
+      "Title": "Spooky Season",
+      "Description": "I want you to bring me some skeletons. 10 of them should suffice.",
+      "Reward": 15,
+      "CurrentAmount": 0,
+      "RequiredAmount": 0
+    }
+  ]
+}

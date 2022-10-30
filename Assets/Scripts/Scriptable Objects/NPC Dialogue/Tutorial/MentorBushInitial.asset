@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f30696cf9ce22e45a25f441f60ee858, type: 3}
+  m_Name: MentorBushInitial
+  m_EditorClassIdentifier: 
+  Lines:
+  - Title: Mentor
+    ScriptLine: Keep that gob shut, we got another guard up ahead! Your gonna have
+      to try your best to stop that clompin' for a bit.
+    Portrait: 1
+  - Title: Mentor
+    ScriptLine: Doesn't look like we got a good way to get around 'em this time,
+      so we'll have to settle for the next best thing.
+    Portrait: 1
+  - Title: Mentor
+    ScriptLine: You see those bushes near 'em? If we sneak on through, the guard
+      shouldn't be able to see us as he passes by.
+    Portrait: 1
+  - Title: Mentor
+    ScriptLine: Oh, and don't keep me wating, alright?
+    Portrait: 1

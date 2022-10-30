@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f30696cf9ce22e45a25f441f60ee858, type: 3}
+  m_Name: PerfectlyBalanced
+  m_EditorClassIdentifier: 
+  Lines:
+  - Title: ???
+    ScriptLine: Pssst... Hey kid, you seem to be doing pretty well around here.
+    Portrait: 5
+  - Title: ???
+    ScriptLine: Well, have you heard the news lately? Seems like the queen's just
+      passed away, and it just so happens I know where she's buried.
+    Portrait: 5
+  - Title: ???
+    ScriptLine: If you were willing to part with a tidy sum, say, 500 pounds or so,
+      I could get you to the location, and let you do your thing.
+    Portrait: 5
+  - Title: ???
+    ScriptLine: Just think of it, stealing the very queen's body would make you the
+      best known grave robber around, a pretty nice idea, isn't it?
+    Portrait: 5
+  - Title: ???
+    ScriptLine: Well, what do you say? Shouldn't be too hard for someone like you
+      to make up the cost...
+    Portrait: 5

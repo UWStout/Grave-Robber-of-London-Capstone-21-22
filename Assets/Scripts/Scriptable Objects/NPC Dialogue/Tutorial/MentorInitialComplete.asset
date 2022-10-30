@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f30696cf9ce22e45a25f441f60ee858, type: 3}
+  m_Name: MentorInitialComplete
+  m_EditorClassIdentifier: 
+  Lines:
+  - Title: Mentor
+    ScriptLine: Hmph... took you long enough, and could you at least try to keep
+      it down? Your lucky the guards didn't hear us.
+    Portrait: 1
+  - Title: Mentor
+    ScriptLine: I made sure tonight the guards would be pretty light, but when your
+      working with the guild you'll have to be quiet or you'll attract unwanted attention.
+    Portrait: 1
+  - Title: Mentor
+    ScriptLine: Anyways, you did fine enough I suppose. Follow me, we'll head to
+      the next part of your evaluation.
+    Portrait: 1

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 093ca069e0d49f4498d5177b8c717bd2, type: 3}
+  m_Name: Oooo Shiny
+  m_EditorClassIdentifier: 
+  Tag: 3
+  _BodyQuality: 0
+  QuestIsActive: 0
+  Title: Oooo Shiny
+  Description: Gold! Gold! Vibrant Gems and expensive watches I want 10 of your treasures!
+  Reward: 50
+  CurrentAmount: 0
+  RequiredAmount: 10

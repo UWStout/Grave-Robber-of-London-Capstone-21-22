@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f30696cf9ce22e45a25f441f60ee858, type: 3}
+  m_Name: DelivererFirst
+  m_EditorClassIdentifier: 
+  Lines:
+  - Title: The Deliverer
+    ScriptLine: Hey there stranger, you look like you're in a bit of a pickle.
+    Portrait: 8
+  - Title: The Deliverer
+    ScriptLine: That old codger kick you to the curb? You ain't the first, that's
+      for sure.
+    Portrait: 8
+  - Title: The Deliverer
+    ScriptLine: He's a real piece of work, that one. Trust me, chances are even if
+      you met his demands he would have taken the credit and left you out to dry.
+    Portrait: 8
+  - Title: The Deliverer
+    ScriptLine: But nevertheless, I see that you still managed to bring back a pretty
+      decent haul. They ain't the freshest, but you still have potential for a newbie.
+    Portrait: 8
+  - Title: The Deliverer
+    ScriptLine: So, how about a little proposition? I'll make a bit of an investment
+      in you, help you make something of yourself and let you stick it to that hoity
+      toity guild.
+    Portrait: 8
+  - Title: The Deliverer
+    ScriptLine: In return, you come to me whenever you need to sell off a night's
+      haul, and I'll make sure we get a nice pence for your efforts.
+    Portrait: 8
+  - Title: The Deliverer
+    ScriptLine: You don't have to answer, I know it's too good of a deal to refuse.
+      So, now that it's sealed, here's a few gifts to get you started on the right
+      foot.
+    Portrait: 8
+  - Title: The Deliverer
+    ScriptLine: First, a few pence for those bodies you brought back, and second,
+      this special raven medallion.
+    Portrait: 8

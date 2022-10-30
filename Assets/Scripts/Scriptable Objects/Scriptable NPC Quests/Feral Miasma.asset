@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 093ca069e0d49f4498d5177b8c717bd2, type: 3}
+  m_Name: Feral Miasma
+  m_EditorClassIdentifier: 
+  Tag: 0
+  _BodyQuality: 2
+  QuestIsActive: 0
+  Title: Feral Miasma
+  Description: There has been a local cat problem. There is horrendous screaming
+    from the feral beasts. Do you mind finding my some decayed bodies, the smell
+    should keep them away?
+  Reward: 100
+  CurrentAmount: 0
+  RequiredAmount: 3

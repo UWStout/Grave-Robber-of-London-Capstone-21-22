@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 46041da246c63474b95f6e4449fa26bb
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Denne's Old Handwriting
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 448f66b66e984e345b5b1b37addea99e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

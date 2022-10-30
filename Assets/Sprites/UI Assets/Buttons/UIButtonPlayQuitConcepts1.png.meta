@@ -1,0 +1,360 @@
+fileFormatVersion: 2
+guid: b98d71ddf6476134b955e86005030d5b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8501098035193965863
+    second: UIButtonPlayQuitConcepts1_0
+  - first:
+      213: -1437822909811910713
+    second: UIButtonPlayQuitConcepts1_1
+  - first:
+      213: -7265108430866058239
+    second: UIButtonPlayQuitConcepts1_2
+  - first:
+      213: -7244431366489653078
+    second: UIButtonPlayQuitConcepts1_3
+  - first:
+      213: -1430872613143110123
+    second: UIButtonPlayQuitConcepts1_4
+  - first:
+      213: 8329436080876730869
+    second: UIButtonPlayQuitConcepts1_5
+  - first:
+      213: 5160421873122276905
+    second: UIButtonPlayQuitConcepts1_6
+  - first:
+      213: 7735509586271295937
+    second: UIButtonPlayQuitConcepts1_7
+  - first:
+      213: 2048096553491727943
+    second: UIButtonPlayQuitConcepts1_8
+  - first:
+      213: 3032812376412303052
+    second: UIButtonPlayQuitConcepts1_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UIButtonPlayQuitConcepts1_0
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 6107
+        width: 2693
+        height: 1686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d21e73b068060a80800000000000000
+      internalID: -8501098035193965863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIButtonPlayQuitConcepts1_1
+      rect:
+        serializedVersion: 2
+        x: 3776
+        y: 6130
+        width: 2688
+        height: 1682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c71eb27ea3db0ce0800000000000000
+      internalID: -1437822909811910713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIButtonPlayQuitConcepts1_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 4066
+        width: 3097
+        height: 1782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1047883df562d2b90800000000000000
+      internalID: -7265108430866058239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIButtonPlayQuitConcepts1_3
+      rect:
+        serializedVersion: 2
+        x: 3173
+        y: 3872
+        width: 2094
+        height: 2120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0cfa80e0c967b90800000000000000
+      internalID: -7244431366489653078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIButtonPlayQuitConcepts1_4
+      rect:
+        serializedVersion: 2
+        x: 5511
+        y: 3891
+        width: 2090
+        height: 2124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e15ce70f4842ce0800000000000000
+      internalID: -1430872613143110123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIButtonPlayQuitConcepts1_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2090
+        width: 3097
+        height: 1782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9bafbfbf9189370800000000000000
+      internalID: 8329436080876730869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIButtonPlayQuitConcepts1_6
+      rect:
+        serializedVersion: 2
+        x: 3112
+        y: 1690
+        width: 2090
+        height: 2124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926fb9e3a508d9740800000000000000
+      internalID: 5160421873122276905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIButtonPlayQuitConcepts1_7
+      rect:
+        serializedVersion: 2
+        x: 5484
+        y: 1655
+        width: 2090
+        height: 2121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c95456fbfc0a5b60800000000000000
+      internalID: 7735509586271295937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIButtonPlayQuitConcepts1_8
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 3112
+        height: 1541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7468390d6fc4c6c10800000000000000
+      internalID: 2048096553491727943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIButtonPlayQuitConcepts1_9
+      rect:
+        serializedVersion: 2
+        x: 3841
+        y: 27
+        width: 3112
+        height: 1541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccea67ea9c6b61a20800000000000000
+      internalID: 3032812376412303052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
